@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="851165ef-9bbe-430f-a2f0-15fea72a458e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/Day8_CaesarCipher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/CaesarCipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/PlayerInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="851165ef-9bbe-430f-a2f0-15fea72a458e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711891175707</updated>
       <workItem from="1711891178581" duration="891000" />
-      <workItem from="1711892270943" duration="1099000" />
+      <workItem from="1711892270943" duration="1491000" />
     </task>
     <servers />
   </component>

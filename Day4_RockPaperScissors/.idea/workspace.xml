@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcf51d4e-8023-4df6-bb1a-1cd503084f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/Day8_CaesarCipher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/CaesarCipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/PlayerInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day5_PasswordGenerator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5_PasswordGenerator/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
