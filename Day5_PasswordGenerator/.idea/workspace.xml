@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="851165ef-9bbe-430f-a2f0-15fea72a458e" name="Default Changelist" comment="" />
+    <list default="true" id="851165ef-9bbe-430f-a2f0-15fea72a458e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +68,7 @@
       <updated>1711891175707</updated>
       <workItem from="1711891178581" duration="891000" />
       <workItem from="1711892270943" duration="1491000" />
+      <workItem from="1711899931139" duration="61000" />
     </task>
     <servers />
   </component>
@@ -84,6 +88,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Day5_PasswordGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1711891882649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day5_PasswordGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1711899968698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

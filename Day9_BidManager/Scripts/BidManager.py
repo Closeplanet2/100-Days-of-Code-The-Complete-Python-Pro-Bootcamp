@@ -31,4 +31,4 @@ class BidManager:
             if self.loop_once:
                 return
             else:
-                print("\n\n\n\n\n")
+                pyautogui.hotkey('ctrl', 'l')

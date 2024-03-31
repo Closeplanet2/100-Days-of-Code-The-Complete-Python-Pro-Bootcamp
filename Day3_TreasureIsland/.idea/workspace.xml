@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9ecf768-e1dd-4498-ae35-a72ef7818a6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day5_PasswordGenerator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day5_PasswordGenerator/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9ecf768-e1dd-4498-ae35-a72ef7818a6d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -59,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711886754868</updated>
       <workItem from="1711886756997" duration="1249000" />
+      <workItem from="1711899772651" duration="66000" />
     </task>
     <servers />
   </component>
@@ -75,8 +74,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Day3_TreasureIsland$main.coverage" NAME="main Coverage Results" MODIFIED="1711887403852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day3_TreasureIsland$main.coverage" NAME="main Coverage Results" MODIFIED="1711899815815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
