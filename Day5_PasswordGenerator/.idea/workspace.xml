@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="851165ef-9bbe-430f-a2f0-15fea72a458e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Day5_PasswordGenerator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/PasswordGen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/Day8_CaesarCipher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/CaesarCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/Scripts/PlayerInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8_CaesarCipher/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3_TreasureIsland/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4_RockPaperScissors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -75,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711891175707</updated>
-      <workItem from="1711891178581" duration="611000" />
+      <workItem from="1711891178581" duration="891000" />
+      <workItem from="1711892270943" duration="1099000" />
     </task>
     <servers />
   </component>
@@ -92,8 +97,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Day5_PasswordGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1711891491173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day5_PasswordGenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1711891882649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
