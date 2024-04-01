@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abfc10bc-f8cb-4a52-876d-169738b8f7b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Screenshot_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/.idea/Day24_USStatesGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/Data/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/Images/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/Scripts/CustomTurtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/Scripts/USStatesGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24_USStatesGame/Screenshot_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day24_USStatesGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day24_USStatesGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

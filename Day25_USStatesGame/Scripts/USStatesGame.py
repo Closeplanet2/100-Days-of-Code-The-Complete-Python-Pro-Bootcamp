@@ -45,10 +45,11 @@ class USStatesGame:
             self.custom_turtle.update_screen()
 
             if self.test_user_input():
-                missing_states = []
-                for state in self.all_states:
-                    if state not in self.guessed_states:
-                        missing_states.append(state)
+                missing_states = [state for state in self.all_states if state not in self.guessed_states]
+                # missing_states = []
+                # for state in self.all_states:
+                #     if state not in self.guessed_states:
+                #         missing_states.append(state)
                 new_data = pandas.DataFrame(missing_states)
                 new_data.to_csv("Data/States_to_learn.csv")
                 break

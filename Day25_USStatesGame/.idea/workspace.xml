@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe75bf6-de5e-48c7-addc-243ede0959a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Screenshot_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day26NatoAlphabet/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day23_SnakeGameHighScore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day23_SnakeGameHighScore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/USStatesGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/USStatesGame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Scripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -81,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711929551816</updated>
       <workItem from="1711929554040" duration="2473000" />
+      <workItem from="1711932222481" duration="107000" />
     </task>
     <servers />
   </component>
@@ -97,11 +99,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Day25_USStatesGame$main.coverage" NAME="main Coverage Results" MODIFIED="1711932312680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Day24_USStatesGame$main.coverage" NAME="main Coverage Results" MODIFIED="1711931765270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
